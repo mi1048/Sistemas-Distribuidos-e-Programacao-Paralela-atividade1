@@ -2,5 +2,5 @@
 
 # Membros do grupo
 
-- Eric Menezes
+- Eric Menezes : https://github.com/mi1048
 - Rodrigo
