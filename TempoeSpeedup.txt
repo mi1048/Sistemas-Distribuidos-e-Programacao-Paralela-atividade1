@@ -1,0 +1,299 @@
+Tempo sequencial: 91 ms
+Tempo paralelo (2 threads): 51 ms
+Tempo paralelo (3 threads): 38 ms
+Tempo paralelo (4 threads): 25 ms
+Tempo paralelo (5 threads): 21 ms
+Tempo paralelo (6 threads): 20 ms
+Tempo paralelo (7 threads): 19 ms
+Tempo paralelo (8 threads): 19 ms
+Tempo paralelo (9 threads): 16 ms
+Tempo paralelo (10 threads): 18 ms
+Tempo paralelo (11 threads): 15 ms
+Tempo paralelo (12 threads): 16 ms
+Tempo paralelo (13 threads): 16 ms
+Tempo paralelo (14 threads): 13 ms
+Tempo paralelo (15 threads): 14 ms
+Tempo paralelo (16 threads): 17 ms
+Tempo paralelo (17 threads): 16 ms
+Tempo paralelo (18 threads): 15 ms
+Tempo paralelo (19 threads): 14 ms
+Tempo paralelo (20 threads): 15 ms
+Tempo paralelo (21 threads): 15 ms
+Tempo paralelo (22 threads): 15 ms
+Tempo paralelo (23 threads): 17 ms
+Tempo paralelo (24 threads): 14 ms
+Tempo paralelo (25 threads): 14 ms
+Tempo paralelo (26 threads): 14 ms
+Tempo paralelo (27 threads): 14 ms
+Tempo paralelo (28 threads): 15 ms
+Tempo paralelo (29 threads): 14 ms
+Tempo paralelo (30 threads): 16 ms
+Tempo paralelo (31 threads): 14 ms
+Tempo paralelo (32 threads): 15 ms
+Tempo paralelo (33 threads): 15 ms
+Tempo paralelo (34 threads): 17 ms
+Tempo paralelo (35 threads): 16 ms
+Tempo paralelo (36 threads): 16 ms
+Tempo paralelo (37 threads): 15 ms
+Tempo paralelo (38 threads): 15 ms
+Tempo paralelo (39 threads): 16 ms
+Tempo paralelo (40 threads): 16 ms
+Tempo paralelo (41 threads): 14 ms
+Tempo paralelo (42 threads): 15 ms
+Tempo paralelo (43 threads): 15 ms
+Tempo paralelo (44 threads): 15 ms
+Tempo paralelo (45 threads): 15 ms
+Tempo paralelo (46 threads): 16 ms
+Tempo paralelo (47 threads): 15 ms
+Tempo paralelo (48 threads): 15 ms
+Tempo paralelo (49 threads): 15 ms
+Tempo paralelo (50 threads): 16 ms
+Tempo paralelo (51 threads): 16 ms
+Tempo paralelo (52 threads): 16 ms
+Tempo paralelo (53 threads): 15 ms
+Tempo paralelo (54 threads): 14 ms
+Tempo paralelo (55 threads): 17 ms
+Tempo paralelo (56 threads): 15 ms
+Tempo paralelo (57 threads): 16 ms
+Tempo paralelo (58 threads): 15 ms
+Tempo paralelo (59 threads): 16 ms
+Tempo paralelo (60 threads): 16 ms
+Tempo paralelo (61 threads): 16 ms
+Tempo paralelo (62 threads): 15 ms
+Tempo paralelo (63 threads): 16 ms
+Tempo paralelo (64 threads): 15 ms
+Tempo paralelo (65 threads): 17 ms
+Tempo paralelo (66 threads): 16 ms
+Tempo paralelo (67 threads): 17 ms
+Tempo paralelo (68 threads): 15 ms
+Tempo paralelo (69 threads): 16 ms
+Tempo paralelo (70 threads): 16 ms
+Tempo paralelo (71 threads): 16 ms
+Tempo paralelo (72 threads): 17 ms
+Tempo paralelo (73 threads): 17 ms
+Tempo paralelo (74 threads): 15 ms
+Tempo paralelo (75 threads): 16 ms
+Tempo paralelo (76 threads): 17 ms
+Tempo paralelo (77 threads): 16 ms
+Tempo paralelo (78 threads): 16 ms
+Tempo paralelo (79 threads): 16 ms
+Tempo paralelo (80 threads): 17 ms
+Tempo paralelo (81 threads): 16 ms
+Tempo paralelo (82 threads): 17 ms
+Tempo paralelo (83 threads): 16 ms
+Tempo paralelo (84 threads): 17 ms
+Tempo paralelo (85 threads): 17 ms
+Tempo paralelo (86 threads): 17 ms
+Tempo paralelo (87 threads): 16 ms
+Tempo paralelo (88 threads): 17 ms
+Tempo paralelo (89 threads): 17 ms
+Tempo paralelo (90 threads): 19 ms
+Tempo paralelo (91 threads): 18 ms
+Tempo paralelo (92 threads): 16 ms
+Tempo paralelo (93 threads): 16 ms
+Tempo paralelo (94 threads): 16 ms
+Tempo paralelo (95 threads): 17 ms
+Tempo paralelo (96 threads): 16 ms
+Tempo paralelo (97 threads): 17 ms
+Tempo paralelo (98 threads): 17 ms
+Tempo paralelo (99 threads): 18 ms
+Tempo paralelo (100 threads): 17 ms
+Tempo paralelo (101 threads): 18 ms
+Tempo paralelo (102 threads): 18 ms
+Tempo paralelo (103 threads): 17 ms
+Tempo paralelo (104 threads): 18 ms
+Tempo paralelo (105 threads): 17 ms
+Tempo paralelo (106 threads): 17 ms
+Tempo paralelo (107 threads): 17 ms
+Tempo paralelo (108 threads): 18 ms
+Tempo paralelo (109 threads): 18 ms
+Tempo paralelo (110 threads): 18 ms
+Tempo paralelo (111 threads): 17 ms
+Tempo paralelo (112 threads): 18 ms
+Tempo paralelo (113 threads): 16 ms
+Tempo paralelo (114 threads): 19 ms
+Tempo paralelo (115 threads): 17 ms
+Tempo paralelo (116 threads): 17 ms
+Tempo paralelo (117 threads): 17 ms
+Tempo paralelo (118 threads): 18 ms
+Tempo paralelo (119 threads): 18 ms
+Tempo paralelo (120 threads): 18 ms
+Tempo paralelo (121 threads): 18 ms
+Tempo paralelo (122 threads): 19 ms
+Tempo paralelo (123 threads): 18 ms
+Tempo paralelo (124 threads): 18 ms
+Tempo paralelo (125 threads): 17 ms
+Tempo paralelo (126 threads): 17 ms
+Tempo paralelo (127 threads): 18 ms
+Tempo paralelo (128 threads): 17 ms
+Tempo paralelo (129 threads): 20 ms
+Tempo paralelo (130 threads): 19 ms
+Tempo paralelo (131 threads): 18 ms
+Tempo paralelo (132 threads): 19 ms
+Tempo paralelo (133 threads): 18 ms
+Tempo paralelo (134 threads): 18 ms
+Tempo paralelo (135 threads): 19 ms
+Tempo paralelo (136 threads): 16 ms
+Tempo paralelo (137 threads): 18 ms
+Tempo paralelo (138 threads): 19 ms
+Tempo paralelo (139 threads): 19 ms
+Tempo paralelo (140 threads): 19 ms
+Tempo paralelo (141 threads): 19 ms
+Tempo paralelo (142 threads): 20 ms
+Tempo paralelo (143 threads): 18 ms
+Tempo paralelo (144 threads): 19 ms
+Tempo paralelo (145 threads): 18 ms
+Tempo paralelo (146 threads): 19 ms
+Tempo paralelo (147 threads): 22 ms
+Tempo paralelo (148 threads): 18 ms
+Tempo paralelo (149 threads): 20 ms
+Tempo paralelo (150 threads): 18 ms
+Speedup com 2 threads: 1.7843137254901962
+Speedup com 3 threads: 2.3947368421052633
+Speedup com 4 threads: 3.64
+Speedup com 5 threads: 4.333333333333333
+Speedup com 6 threads: 4.55
+Speedup com 7 threads: 4.7894736842105265
+Speedup com 8 threads: 4.7894736842105265
+Speedup com 9 threads: 5.6875
+Speedup com 10 threads: 5.055555555555555
+Speedup com 11 threads: 6.066666666666666
+Speedup com 12 threads: 5.6875
+Speedup com 13 threads: 5.6875
+Speedup com 14 threads: 7.0
+Speedup com 15 threads: 6.5
+Speedup com 16 threads: 5.352941176470588
+Speedup com 17 threads: 5.6875
+Speedup com 18 threads: 6.066666666666666
+Speedup com 19 threads: 6.5
+Speedup com 20 threads: 6.066666666666666
+Speedup com 21 threads: 6.066666666666666
+Speedup com 22 threads: 6.066666666666666
+Speedup com 23 threads: 5.352941176470588
+Speedup com 24 threads: 6.5
+Speedup com 25 threads: 6.5
+Speedup com 26 threads: 6.5
+Speedup com 27 threads: 6.5
+Speedup com 28 threads: 6.066666666666666
+Speedup com 29 threads: 6.5
+Speedup com 30 threads: 5.6875
+Speedup com 31 threads: 6.5
+Speedup com 32 threads: 6.066666666666666
+Speedup com 33 threads: 6.066666666666666
+Speedup com 34 threads: 5.352941176470588
+Speedup com 35 threads: 5.6875
+Speedup com 36 threads: 5.6875
+Speedup com 37 threads: 6.066666666666666
+Speedup com 38 threads: 6.066666666666666
+Speedup com 39 threads: 5.6875
+Speedup com 40 threads: 5.6875
+Speedup com 41 threads: 6.5
+Speedup com 42 threads: 6.066666666666666
+Speedup com 43 threads: 6.066666666666666
+Speedup com 44 threads: 6.066666666666666
+Speedup com 45 threads: 6.066666666666666
+Speedup com 46 threads: 5.6875
+Speedup com 47 threads: 6.066666666666666
+Speedup com 48 threads: 6.066666666666666
+Speedup com 49 threads: 6.066666666666666
+Speedup com 50 threads: 5.6875
+Speedup com 51 threads: 5.6875
+Speedup com 52 threads: 5.6875
+Speedup com 53 threads: 6.066666666666666
+Speedup com 54 threads: 6.5
+Speedup com 55 threads: 5.352941176470588
+Speedup com 56 threads: 6.066666666666666
+Speedup com 57 threads: 5.6875
+Speedup com 58 threads: 6.066666666666666
+Speedup com 59 threads: 5.6875
+Speedup com 60 threads: 5.6875
+Speedup com 61 threads: 5.6875
+Speedup com 62 threads: 6.066666666666666
+Speedup com 63 threads: 5.6875
+Speedup com 64 threads: 6.066666666666666
+Speedup com 65 threads: 5.352941176470588
+Speedup com 66 threads: 5.6875
+Speedup com 67 threads: 5.352941176470588
+Speedup com 68 threads: 6.066666666666666
+Speedup com 69 threads: 5.6875
+Speedup com 70 threads: 5.6875
+Speedup com 71 threads: 5.6875
+Speedup com 72 threads: 5.352941176470588
+Speedup com 73 threads: 5.352941176470588
+Speedup com 74 threads: 6.066666666666666
+Speedup com 75 threads: 5.6875
+Speedup com 76 threads: 5.352941176470588
+Speedup com 77 threads: 5.6875
+Speedup com 78 threads: 5.6875
+Speedup com 79 threads: 5.6875
+Speedup com 80 threads: 5.352941176470588
+Speedup com 81 threads: 5.6875
+Speedup com 82 threads: 5.352941176470588
+Speedup com 83 threads: 5.6875
+Speedup com 84 threads: 5.352941176470588
+Speedup com 85 threads: 5.352941176470588
+Speedup com 86 threads: 5.352941176470588
+Speedup com 87 threads: 5.6875
+Speedup com 88 threads: 5.352941176470588
+Speedup com 89 threads: 5.352941176470588
+Speedup com 90 threads: 4.7894736842105265
+Speedup com 91 threads: 5.055555555555555
+Speedup com 92 threads: 5.6875
+Speedup com 93 threads: 5.6875
+Speedup com 94 threads: 5.6875
+Speedup com 95 threads: 5.352941176470588
+Speedup com 96 threads: 5.6875
+Speedup com 97 threads: 5.352941176470588
+Speedup com 98 threads: 5.352941176470588
+Speedup com 99 threads: 5.055555555555555
+Speedup com 100 threads: 5.352941176470588
+Speedup com 101 threads: 5.055555555555555
+Speedup com 102 threads: 5.055555555555555
+Speedup com 103 threads: 5.352941176470588
+Speedup com 104 threads: 5.055555555555555
+Speedup com 105 threads: 5.352941176470588
+Speedup com 106 threads: 5.352941176470588
+Speedup com 107 threads: 5.352941176470588
+Speedup com 108 threads: 5.055555555555555
+Speedup com 109 threads: 5.055555555555555
+Speedup com 110 threads: 5.055555555555555
+Speedup com 111 threads: 5.352941176470588
+Speedup com 112 threads: 5.055555555555555
+Speedup com 113 threads: 5.6875
+Speedup com 114 threads: 4.7894736842105265
+Speedup com 115 threads: 5.352941176470588
+Speedup com 116 threads: 5.352941176470588
+Speedup com 117 threads: 5.352941176470588
+Speedup com 118 threads: 5.055555555555555
+Speedup com 119 threads: 5.055555555555555
+Speedup com 120 threads: 5.055555555555555
+Speedup com 121 threads: 5.055555555555555
+Speedup com 122 threads: 4.7894736842105265
+Speedup com 123 threads: 5.055555555555555
+Speedup com 124 threads: 5.055555555555555
+Speedup com 125 threads: 5.352941176470588
+Speedup com 126 threads: 5.352941176470588
+Speedup com 127 threads: 5.055555555555555
+Speedup com 128 threads: 5.352941176470588
+Speedup com 129 threads: 4.55
+Speedup com 130 threads: 4.7894736842105265
+Speedup com 131 threads: 5.055555555555555
+Speedup com 132 threads: 4.7894736842105265
+Speedup com 133 threads: 5.055555555555555
+Speedup com 134 threads: 5.055555555555555
+Speedup com 135 threads: 4.7894736842105265
+Speedup com 136 threads: 5.6875
+Speedup com 137 threads: 5.055555555555555
+Speedup com 138 threads: 4.7894736842105265
+Speedup com 139 threads: 4.7894736842105265
+Speedup com 140 threads: 4.7894736842105265
+Speedup com 141 threads: 4.7894736842105265
+Speedup com 142 threads: 4.55
+Speedup com 143 threads: 5.055555555555555
+Speedup com 144 threads: 4.7894736842105265
+Speedup com 145 threads: 5.055555555555555
+Speedup com 146 threads: 4.7894736842105265
+Speedup com 147 threads: 4.136363636363637
+Speedup com 148 threads: 5.055555555555555
+Speedup com 149 threads: 4.55
+Speedup com 150 threads: 5.055555555555555
