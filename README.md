@@ -15,7 +15,7 @@ Primeiro dividimos em duas classes a busca do arquivo 'entrada.txt':
 1. **Sequencial**: Encontra os números primos de forma sequencial.
 2. **Paralela**: Utiliza múltiplas threads para encontrar os números primos de maneira paralelizada, utilizando diferentes quantidades de threads para medir o impacto no desempenho.
 
-# Com isso após busca ser feita a plotagem dos graficos
+# Com isso,após a busca ser feita plotamos os graficos
 
 1. **Gráfico de Tempo Real de Execução vs. Número de Threads**: Mostra como o tempo de execução do algoritmo paralelo varia conforme o número de threads.
 2. **Gráfico de Speedup vs. Número de Threads**: Mostra como o speedup varia conforme o número de threads, ajudando a visualizar a eficiência da paralelização.
