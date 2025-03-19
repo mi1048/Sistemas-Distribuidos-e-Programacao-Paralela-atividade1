@@ -49,7 +49,13 @@ Em outras palavras, mesmo que aumentemos o número de threads, existe um limite 
 
 O speedup máximo foi alcançado com 14 threads, onde o valor foi de 7.0x. Após esse ponto, aumentar o número de threads não traz ganhos significativos, pois a sobrecarga de gerenciamento das threads e a parte sequencial do código começam a dominar o tempo de execução. Isso significa que, embora o paralelismo ofereça melhorias significativas, ele não é escalável infinitamente.
 
-3. **Gráfico de Comparação de desempenho**:Abaixo está um gráfico comparando o tempo de execução dos diferentes modelos:
+3. **Gráfico de Comparação de desempenho**:Abaixo está um gráfico comparando o tempo de execução dos diferentes modelos:  
+   ![Execucaodasthreads](https://raw.githubusercontent.com/mi1048/Sistemas-Distribuidos-e-Programacao-Paralela-atividade1/refs/heads/main/Tempodeexecucao.jpg)
+   Foram feitos testes com diferentes números de threads, variando de 2 a aproximadamente 150, para avaliar o desempenho da versão paralela. O tempo de execução da versão sequencial foi de 92 ms. Já com 5 threads, o tempo caiu para 25 ms, e com 10 threads, foi de 17 ms. Esses tempos foram registrados e plotados nos gráficos resultantes após as simulações.
+
+# Conclusão:
+A versão paralela do programa mostrou-se muito mais eficiente que a sequencial, especialmente com 5 e 10 threads. No entanto, o ganho de desempenho diminui conforme o número de threads aumenta, devido à sobrecarga de gerenciamento e à limitação de recursos do sistema. 
+A partir disso, é recomendável usar um número moderado de threads, entre 5 e 10, para obter um bom equilíbrio entre desempenho e eficiência.
 
    
 
