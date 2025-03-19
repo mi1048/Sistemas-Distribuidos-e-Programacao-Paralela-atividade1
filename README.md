@@ -32,7 +32,7 @@ O programa foi dividido em quatro partes principais:
 3. Em seguida, a terceira parte faz a busca sequencial de números primos, ou seja, sem usar threads, apenas iterando sobre a lista de números e verificando cada um;
 4. Por fim, a quarta parte implementa a busca paralela, onde cada número é verificado em uma thread separada, usando `ExecutorService` e `Callable` para gerenciar as tarefas.
 
-# Com isso,após a busca ser feita plotamos os gráficos
+# Com isso,após a busca ser feita plotamos os gráficos:
 
 1. **Gráfico de Tempo Real de Execução vs. Número de Threads**: Mostra como o tempo de execução do algoritmo paralelo varia conforme o número de threads.  
    ![Grafico de Tempo por threads](https://raw.githubusercontent.com/mi1048/Sistemas-Distribuidos-e-Programacao-Paralela-atividade1/refs/heads/main/Speedupvsthreadsjava3.jpg)  
@@ -50,7 +50,7 @@ Em outras palavras, mesmo que aumentemos o número de threads, existe um limite 
 O speedup máximo foi alcançado com 14 threads, onde o valor foi de 7.0x. Após esse ponto, aumentar o número de threads não traz ganhos significativos, pois a sobrecarga de gerenciamento das threads e a parte sequencial do código começam a dominar o tempo de execução. Isso significa que, embora o paralelismo ofereça melhorias significativas, ele não é escalável infinitamente.
 
 3. **Gráfico de Comparação de desempenho**:Abaixo está um gráfico comparando o tempo de execução dos diferentes modelos:  
-   ![Execucaodasthreads](https://raw.githubusercontent.com/mi1048/Sistemas-Distribuidos-e-Programacao-Paralela-atividade1/refs/heads/main/Tempodeexecucao.jpg)
+   ![Execucaodasthreads](https://raw.githubusercontent.com/mi1048/Sistemas-Distribuidos-e-Programacao-Paralela-atividade1/refs/heads/main/Execucao_threads.jpg)  
    Foram feitos testes com diferentes números de threads, variando de 2 a aproximadamente 150, para avaliar o desempenho da versão paralela. O tempo de execução da versão sequencial foi de 92 ms. Já com 5 threads, o tempo caiu para 25 ms, e com 10 threads, foi de 17 ms. Esses tempos foram registrados e plotados nos gráficos resultantes após as simulações.
 
 # Conclusão:
