@@ -27,4 +27,4 @@ Primeiro dividimos em duas classes a busca do arquivo 'entrada.txt':
 # Dependências
 
 - Java 8 ou superior
-- Biblioteca ![Xchart]!(https://knowm.org/open-source/xchart/) para geração de gráficos (utilizada pelo código).
+- Biblioteca ![Xchart](https://knowm.org/open-source/xchart/) para geração de gráficos (utilizada pelo código).
