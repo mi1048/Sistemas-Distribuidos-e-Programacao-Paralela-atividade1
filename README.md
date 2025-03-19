@@ -15,7 +15,7 @@ Primeiro dividimos em duas classes a busca do arquivo 'entrada.txt':
 1. **Sequencial**: Encontra os números primos de forma sequencial.
 2. **Paralela**: Utiliza múltiplas threads para encontrar os números primos de maneira paralelizada, utilizando diferentes quantidades de threads para medir o impacto no desempenho.
 
-# Com isso,após a busca ser feita plotamos os graficos
+# Com isso,após a busca ser feita plotamos os gráficos
 
 1. **Gráfico de Tempo Real de Execução vs. Número de Threads**: Mostra como o tempo de execução do algoritmo paralelo varia conforme o número de threads.
    ![Grafico de Tempo por threads](https://raw.githubusercontent.com/mi1048/Sistemas-Distribuidos-e-Programacao-Paralela-atividade1/refs/heads/main/Speedupvsthreadsjava3.jpg)
@@ -27,4 +27,4 @@ Primeiro dividimos em duas classes a busca do arquivo 'entrada.txt':
 # Dependências
 
 - Java 8 ou superior
-- Biblioteca `XChart` para geração de gráficos (utilizada pelo código).
+- Biblioteca ![Xchart]!( para geração de gráficos (utilizada pelo código).
