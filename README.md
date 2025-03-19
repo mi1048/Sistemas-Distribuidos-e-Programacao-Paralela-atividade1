@@ -8,6 +8,14 @@
 # Sobre o que e este repositorio:
 Este repositorio e sobre a atividade de Sistemas Distribuidos e Programação Paralela onde e feito a verificação de números primos em um arquivo com o intuito de avaliar o quanto o paralelismo em threads pode ajudar na execução de algoritmos.
 
+# Configurando o Ambiente de execução:
+1. Baixe o arquivo ProjetosPrimos1.1.zip
+2. Extrai o ProjetosPrimos1.1.zip em uma pasta
+3. Importe os arquivos do projeto em Java
+4. Baixe o Xchart[Xchart](https://knowm.org/open-source/xchart/)
+5. Adicione os arquivos .jar do Xchart no seu buildpath->Biblitecas->Classpath
+6. Após isso o codigo deve ser executado normalmente
+
 # Mas como fazemos isto?
 
 Primeiro dividimos em duas classes a busca do arquivo 'entrada.txt':
