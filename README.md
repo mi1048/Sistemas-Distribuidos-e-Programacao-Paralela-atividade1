@@ -18,7 +18,11 @@ Primeiro dividimos em duas classes a busca do arquivo 'entrada.txt':
 # Com isso,após a busca ser feita plotamos os graficos
 
 1. **Gráfico de Tempo Real de Execução vs. Número de Threads**: Mostra como o tempo de execução do algoritmo paralelo varia conforme o número de threads.
+   ![Alt text](![Tempodeexecucao3](https://github.com/user-attachments/assets/1c35bdd8-66bb-4182-a7f6-a83d8d6d8338)
+)
+
 2. **Gráfico de Speedup vs. Número de Threads**: Mostra como o speedup varia conforme o número de threads, ajudando a visualizar a eficiência da paralelização.
+   
 
 # Dependências
 
