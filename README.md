@@ -22,7 +22,7 @@ Primeiro dividimos em duas classes a busca do arquivo 'entrada.txt':
 )
 
 2. **Gráfico de Speedup vs. Número de Threads**: Mostra como o speedup varia conforme o número de threads, ajudando a visualizar a eficiência da paralelização.
-   ![Grafico de Tempo por threads](![Tempodeexecucao3](https://github.com/user-attachments/assets/1c35bdd8-66bb-4182-a7f6-a83d8d6d8338)
+   (![Tempodeexecucao3](https://github.com/user-attachments/assets/1c35bdd8-66bb-4182-a7f6-a83d8d6d8338)
 
 # Dependências
 
