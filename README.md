@@ -34,13 +34,13 @@ O programa foi dividido em quatro partes principais:
 
 # Com isso,após a busca ser feita plotamos os gráficos
 
-1. **Gráfico de Tempo Real de Execução vs. Número de Threads**: Mostra como o tempo de execução do algoritmo paralelo varia conforme o número de threads.
+1. **Gráfico de Tempo Real de Execução vs. Número de Threads**: Mostra como o tempo de execução do algoritmo paralelo varia conforme o número de threads.  
    ![Grafico de Tempo por threads](https://raw.githubusercontent.com/mi1048/Sistemas-Distribuidos-e-Programacao-Paralela-atividade1/refs/heads/main/Speedupvsthreadsjava3.jpg)  
 O comportamento esperado é que, à medida que o número de threads aumenta, o tempo de execução diminua devido ao paralelismo. No entanto, após um certo ponto, o ganho de desempenho diminuiu pois o sistema começa a ter dificuldades em gerenciar muitas threads.
 
 Logo, o tempo de execução sequencial é claramente maior que o tempo paralelo, mas com 5 e 10 threads, o tempo cai significativamente. Depois disso, o ganho marginal diminui.
 
-2. **Gráfico de Speedup vs. Número de Threads**: Mostra como o speedup varia conforme o número de threads, ajudando a visualizar a eficiência da paralelização.
+2. **Gráfico de Speedup vs. Número de Threads**: Mostra como o speedup varia conforme o número de threads, ajudando a visualizar a eficiência da paralelização.  
    ![Tempodeexecucao3](https://github.com/user-attachments/assets/1c35bdd8-66bb-4182-a7f6-a83d8d6d8338)  
 O speedup aumenta com o número de threads, mas tende a se estabilizar após um certo ponto devido à Lei de Amdahl e à sobrecarga de gerenciamento de threads.
 A Lei de Amdahl é um princípio que define o ganho máximo de desempenho que pode ser obtido ao paralelizar uma tarefa, levando em consideração a parte do código que não pode ser paralelizada.
