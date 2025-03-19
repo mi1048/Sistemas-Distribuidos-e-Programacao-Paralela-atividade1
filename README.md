@@ -14,7 +14,7 @@ Este repositorio e sobre a atividade de Sistemas Distribuidos e Programação Pa
 3. Importe os arquivos do projeto em Java
 4. Baixe o [Xchart](https://knowm.org/open-source/xchart/)
 5. Adicione os arquivos .jar do Xchart no seu Projeto->Buildpath->Bibliotecas->Classpath
-6. Após isso o codigo deve ser executado normalmente
+6. Após isso o codigo deve ser compilado e executado normalmente
 
 # Mas como fazemos isto?
 
